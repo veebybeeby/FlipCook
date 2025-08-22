@@ -1,0 +1,31 @@
+# Grains & Rice
+basmati rice
+long grain rice
+jasmine rice
+wild rice
+quinoa
+couscous
+pearled barley
+bulgar wheat
+
+# Pasta & Noodles
+spaghetti
+dried pasta
+fresh pasta
+noodles
+
+# Potatoes & Root Carbs
+mashed potatoes
+roast potatoes
+new potatoes
+sweet potatoes
+parsnips
+butternut squash
+
+# Bread & Bakery
+sliced bread
+sourdough loaf
+baguette
+pitta bread
+naan bread
+wraps

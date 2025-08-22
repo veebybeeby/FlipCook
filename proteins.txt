@@ -1,0 +1,50 @@
+# Meats
+chicken breast
+chicken thigh
+roast chicken
+chicken mince
+chicken sausage
+
+turkey breast
+turkey mince
+turkey sausage
+
+beef steak
+beef mince
+roast beef
+
+pork chops
+pork loin
+pork belly
+bacon
+pork sausages
+deli meat
+lamb chops
+lamb mince
+lamb sausages
+
+# Seafood
+salmon fillets
+smoked salmon
+tuna steak
+can of tuna
+cod fillets
+prawns
+mussels
+
+# Beans, Legumes & Plant Proteins
+tofu
+chickpeas
+canned beans
+
+# Dairy & Eggs
+eggs
+mozzarella
+feta
+halloumi
+
+
+# Processed
+veggie burgers
+beef burgers
+chicken burgers
